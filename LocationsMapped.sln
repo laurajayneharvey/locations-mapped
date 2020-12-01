@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationsMapped", "LocationsMapped.csproj", "{362A31A9-2D82-443F-89FA-0F834A007EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362A31A9-2D82-443F-89FA-0F834A007EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362A31A9-2D82-443F-89FA-0F834A007EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362A31A9-2D82-443F-89FA-0F834A007EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362A31A9-2D82-443F-89FA-0F834A007EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B521464A-8605-4098-8E13-E61F7384C467}
+	EndGlobalSection
+EndGlobal
